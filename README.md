@@ -45,6 +45,6 @@ This was a learning project to explore how AI voice assistants work. It helped m
 This is just version 1.0 – there’s a lot of room for improvement! Feel free to fork it, improve it, or give suggestions.
 
 ## 🙋‍♂️ Created by:
-Ujjwal Chauhan
+Ujjwal Pratap Singh
 
 Thanks for checking this out! ⭐️
